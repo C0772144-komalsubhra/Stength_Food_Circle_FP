@@ -59,6 +59,13 @@
 
 
 **Footer Page Image**
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/footer.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/footer2.PNG" width="50%" height="50%">-
+
+**Footer Page Image**
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/signin.PNG">
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/signin2.PNG">
+
 
 
 
