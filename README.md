@@ -2,6 +2,9 @@
 ## Created By
 
 KOMAL SUBHRA
+MOBILE APPLICATIONS DESIGN AND DEVELOPMENT
+LAMBTON COLLEGE TORONTO
+
 
 ## Table of contents
 - [About ](#about)
