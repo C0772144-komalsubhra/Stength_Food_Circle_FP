@@ -1,9 +1,7 @@
 # Stength_Food_Circle_FP
-## Created By
+## Created By Komal Subhra
 
-- KOMAL SUBHRA
-- MOBILE APPLICATIONS DESIGN AND DEVELOPMENT
-- LAMBTON COLLEGE, TORONTO
+- I am a student of Mobile Applications Design And Developent(2nd term). I am doing this program from Lambton College, Tornoto. This is my final project of Mobile Browser Application Development. I hope You all like it. I tried to make restaurant website with html5,css,bootstrap,carousel,javascript.
 
 
 ## Table of contents
