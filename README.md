@@ -25,7 +25,7 @@
 
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/HomePage1.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/homepage2.PNG" width="50%" height="50%">-
-<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/home3.PNG" width="50%" height="50%">-
+
 
  **About Page Image**
 
