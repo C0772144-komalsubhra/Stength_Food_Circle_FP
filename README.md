@@ -19,4 +19,35 @@
 
 **Home Page Image**
 
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/HomePage1.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/homepage2.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/home3.PNG" width="50%" height="50%">-
+
+ **About Page Image**
+
+ <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/about1.PNG" width="50%" height="50%">-
+ <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/about2.PNG" width="50%" height="50%">-
+
+  **Contact Page Image** 
+
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/contact1.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/contact2.PNG" width="50%" height="50%">-
+
+**Cart Page Image** 
+
+ **Checkout Page Image**
+
+ **Gallery Page Image** 
+
+ **Ordernow Page Image** 
+
+**Snacks Page Image**
+
+
+
+**Footer Page Image**
+
+
+
+
 
