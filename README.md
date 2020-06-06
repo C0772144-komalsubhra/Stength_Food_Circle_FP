@@ -48,10 +48,14 @@
 
  **OrderNow Page Image** 
 
-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/order1.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/order2.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/order3.PNG" width="50%" height="50%">-
 
 **Snacks Page Image**
-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack1.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack2.PNG" width="50%" height="50%">-
+<img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack3.PNG" width="50%" height="50%">-
 
 
 **Footer Page Image**
