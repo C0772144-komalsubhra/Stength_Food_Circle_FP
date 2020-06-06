@@ -32,21 +32,24 @@
  <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/about1.PNG" width="50%" height="50%">-
  <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/about2.PNG" width="50%" height="50%">-
 
-  **Contact Page Image** 
+**Contact Page Image** 
 
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/contact1.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/contact2.PNG" width="50%" height="50%">-
 
 **Cart Page Image** 
+
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/cart1.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/cart2.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/cart3.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/cart4.PNG" width="50%" height="50%">-
 
  **Services Page Image**
+
  <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/services.PNG"  width="50%" height="50%">-
 
  **Gallery Page Image** 
+
  <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/gallary1.PNG" width="50%" height="50%">-
  <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/gallery2.PNG" width="50%" height="50%">-
 
@@ -57,16 +60,19 @@
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/order3.PNG" width="50%" height="50%">-
 
 **Snacks Page Image**
+
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack1.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack2.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/snack3.PNG" width="50%" height="50%">-
 
 
 **Footer Page Image**
+
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/footer.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/footer2.PNG" width="50%" height="50%">-
 
 **SignIN Page Image**
+
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/signin.PNG" width="50%" height="50%">-
 <img src="https://github.com/C0772144-komalsubhra/Stength_Food_Circle_FP/blob/master/screenshots/signin2.PNG" width="50%" height="50%">-
 
