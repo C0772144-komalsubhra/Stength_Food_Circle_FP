@@ -115,7 +115,7 @@ body {
     }
     body
     {
-      background-image: url(images/main-slider/image-3.jpg);
+      background: url(poster.png);
       background-size: cover;
     }
   }

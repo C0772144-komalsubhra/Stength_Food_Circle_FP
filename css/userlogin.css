@@ -165,8 +165,9 @@ input[type=text], select {
   
   
   body {
-    background: grey url("bg1.jpg");
+    background: grey url(images/background/1.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
