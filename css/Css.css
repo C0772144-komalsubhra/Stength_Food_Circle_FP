@@ -115,7 +115,7 @@ body {
     }
     body
     {
-      background: url(images/image-4.jpg);
+      background-image: url(images/main-slider/image-3.jpg);
       background-size: cover;
     }
   }
